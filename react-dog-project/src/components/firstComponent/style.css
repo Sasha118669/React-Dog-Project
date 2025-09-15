@@ -1,0 +1,33 @@
+/* .leftSideConainer {
+    border-width: 2px;
+    border-style: solid;
+    width: 350px;
+    height: 100vh;
+    padding-left: 30px;
+}
+.leftSideConainer img{ 
+    border: 2px solid;
+     width: 200px;
+     height: 200px;
+}
+.leftSideConainer h1{
+font-family: 'Courier New', Courier, monospace;
+color: rgb(49, 49, 49);
+margin-top: 0;
+margin-bottom: 50px;
+}
+
+.breedList h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(49, 49, 49);
+    margin: 0;
+}
+.breedList p{
+    margin: 0;
+    font-size: 25px;
+    border: 2px solid rgb(180, 180, 180);
+    border-radius: 5px;
+}
+.breedList p:focus{
+    border-color: rgb(0, 0, 0);
+} */
